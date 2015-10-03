@@ -36,7 +36,7 @@ header {
     -webkit-break-after: column;
     -moz-break-after: column;
     break-after: column;
-    background: #fff url(../golden/image/home-bg.jpg) no-repeat;
+    background: #fff url(image/home-bg.jpg) no-repeat;
     background-size: cover;
     
 }
@@ -164,7 +164,7 @@ font-weight: 400;
 }
 
 .commerce {
-    background: url(../golden/image/e-commerce.png) no-repeat center top;
+    background: url(image/e-commerce.png) no-repeat center top;
 }
 
 .responsive {
